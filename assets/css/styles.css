@@ -1,0 +1,28 @@
+*{
+    width: 70%;
+    margin: auto;
+    padding: 0,5%;
+    font-family: Verdana;
+    font-size:medium;
+    /*background-image: linear-gradient(
+        45deg,
+        #ffb26f,
+        #ffc75f,
+        #f9f871,
+        #ffe9a8,
+        #fff
+        );
+        background-size: 400%;
+        animation: bg-animation 5s infinite alternate;*/
+}
+/*comentario en css*/
+.titulo{
+    color: blueviolet;
+    font-family: 'PT Sans';
+    font-size: 1cm;
+    font-style: oblique;
+    
+}
+.fondo{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23XX3O_iJ2I_upFqDVgCuUBHGKompSIo_OQ&usqp=CAU);
+}
